@@ -1,0 +1,1 @@
+A github repo used to store my solution in Leetcode.
